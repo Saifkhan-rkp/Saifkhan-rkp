@@ -5,11 +5,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saif-khan-353171221/" target="_blank">
+  <a href="https://www.linkedin.com/in/saifkhan-rkp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="http://t.me/TheRisingSword" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="mailto:saifkhan.rkp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=0077B5&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
@@ -21,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Saif</h1>
 
 ###
 
@@ -29,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Saif Khan, Computer Science Enthusiast <br><br>- 🔭 I’m a NodeJS and Python Developer <br>- 📚 I'm currently learning about Deep Learning -Tensorflow, Keras, Pytorch <br>- ⚡ In my free time I ...hmmmmmm </p>
+<p align="left">Welcome to my profile..  <br><br>- 🔭 I’m a Full Stack Developer(JavaScript, Java, Python), having interest in Backend Development<br>- 📚 I'm currently exploring Java and Spring <br>- ⚡ I'm open to collaborate and contribute, reach on given social media contacts  </p>
 
 ###
 
@@ -38,7 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="python logo"  />
   <img width="14" />
@@ -68,9 +71,18 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="46" alt="opencv logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="46" alt="amazonwebservices logo"  />
-  <img width="14" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="46" height="46"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="46" alt="yarn logo"  />
+  <img src="https://static.cdnlogo.com/logos/s/91/spring.svg" height="40" alt="yarn logo"  />
+ <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="46" height="46"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="46" height="46"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="46" height="46"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="46" height="46"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="46" height="46"/> </a> 
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="46" height="46"/> </a>
+ <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="46" height="46"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="46" height="46"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="46" height="46"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="46" height="46"/> </a>
+ <a href="https://cdnlogo.com/logo/tmux_132906.html"><img alt="tmux" src="https://static.cdnlogo.com/logos/t/93/tmux.svg" height="40" width="40"></a>
+ <a href="https://nextjs.org/"><img alt="next.js" src="https://static.cdnlogo.com/logos/n/80/next-js.svg" width="46" height="46"></a>
+<a href="https://jwt.io/"><img alt="jwt" src="https://static.cdnlogo.com/logos/j/20/jwt.svg" width="46" height="46"></a>
+<a href="https://socket.io/"><img alt="socket.io" src="https://static.cdnlogo.com/logos/s/14/socket-io.svg" width="46" height="46"></a>
+<a href="https://redux.js.org/"><img alt="redux" src="https://static.cdnlogo.com/logos/r/69/redux.svg" width="46" height="46"></a>
+<a href="https://www.prisma.io/"><img alt="prisma ORM" src="https://static.cdnlogo.com/logos/p/67/prisma.svg" width="46" height="46"></a>
 </div>
 
 ###
@@ -79,24 +91,19 @@
 
 ###
 
+<p align="center" style="{display:'flex'; flex-direction:row';}">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifkhan-rkp&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifkhan-rkp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saifkhan-rkp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Saifkhan-rkp&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br />
+<p align="center">
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Saifkhan-rkp&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+</p>
 
-<!--![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saifkhan-rkp&theme=dracula) -->
+<br/>
+<b>Note:</b>Above metrics in on the basis of my public code and consists, doesn't reflect experience or skill level.
 
 ###
-<!--
-**Saifkhan-rkp/Saifkhan-rkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
